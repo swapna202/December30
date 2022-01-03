@@ -9,5 +9,10 @@
 		<members>Car__c</members>
 		<name>CustomObject</name>
 	</types>
+	<types>
+		<members>hello</members>
+		<name>ApexClass</name>
+	</types>
+	
 	<version>53.0</version>
 </Package>
